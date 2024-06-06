@@ -92,6 +92,6 @@ Lastly, once that has been created you can head back to the students profile pag
 
 Click the drop down and pin the new chronicle post to keep it at the top of the profile.
 
-![Screenshot 2024-06-05 at 4.44.44 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/488a01be-e77c-42cb-98e8-193203727f9b/925c0797-da74-441f-87aa-100ab1901dc8/Screenshot_2024-06-05_at_4.44.44_PM.png)
+![anything.png](./img/anything.png)
 
 And it should look something like this which staff can click on and view if required.
