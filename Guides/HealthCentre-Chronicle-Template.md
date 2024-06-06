@@ -4,12 +4,14 @@ This is a guide on how to create Compass Chronicle Templates and specifically go
 
 ### Permissions
 
+
 Technicians to be able to create this template for your Health Centre you will need the Compass permission 'ChronicleConfigure'
 
 #
 
 Note: Once the template has been set up you will need to check the permissions are correct for the Health Centre staff to see & enter the chronicle templates on student profiles. Typically this permission is under 'SickBayAdmin'
 
+***
 
 ## Start
 Head to your Student Management then find ‘Chronicle’
@@ -32,7 +34,7 @@ Give the category a name ie Medical and then set the Visability settings
 
 ![002.png](./img/002.png)
 
-
+***
 
 ## Creating a Field
 
@@ -73,7 +75,7 @@ Once you have created your ideal fields head to the ‘Templates’ tab & click 
 
 ![007.png](./img/007.png)
 
-
+***
 
 ## Creating the Template
 
@@ -90,7 +92,7 @@ Set the **Default Rating** colour you desire.
 ![008.png](./img/008.png)
 
 
-
+***
 
 
 ## Normal Chronicle Use
@@ -126,3 +128,4 @@ This is an example of what the Student's Chronicle looks like once the action pl
 
 ![014.png](./img/014.png)
 
+***
