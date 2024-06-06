@@ -1,24 +1,33 @@
 # Compass Chronicle Templates
 
-This is is a rough guide on how the Compass Chronicle Templates are created and specifically goes through the process for Health Centre / Action Plan templates.
+This is a rough guide on how McKinnon Secondary College creates their Compass Chronicle Templates and specifically goes through the process for a template to be used in Health Centre/Sick Bay Action Plans.
 
 ## Permissions
 
-To be able to create this template for your Health Centre you will need the highest Compass permissions. Typically something like CompassSponsor level to be able to create the templates for ‘Level 2’ type staff ie Health Centre.
+To be able to create this template for your Health Centre you will need the highest Compass permissions. Typically something like CompassSponsor level to be able to create the templates for ‘Level 2’ type staff ie Health Centre/Sick Bay.
 
 Head to your Student Management then find ‘Chronicle’
 
 ![001.png](./img/001.png)
 
+
+
 ## Creating a Category
 
-In the Chronicle Dashboard, head to the ‘Administration’ tab and then Categories tab.
+In the Chronicle Dashboard, head to the ‘Administration’ tab and then 'Categories' tab.
+
+![016.png](./img/016.png)
 
 Click ‘Create Category’
+
+![017.png](./img/017.png)
 
 Give the category a name ie Medical and then set the Visability settings
 
 ![002.png](./img/002.png)
+
+
+
 
 ## Creating a Field
 
@@ -28,7 +37,7 @@ Head back to the Administration tab, find the ‘Fields’ tab and click into it
 
 Under Field Categories, click ‘Create Field Category’
 
-Create a name of the category you want, in this case its Heath Centre / Action Plan
+Create a name of the category you want, in this case for McKinnon its Heath Centre / Action Plan
 
 ![004.png](./img/004.png)
 
@@ -36,66 +45,75 @@ Then, you will need to create Fields linked to that Category under the ‘Fields
 
 Click ‘Create Field’
 
+![018.png](./img/018.png)
+
 In the create field section include the **Name, Field Type, Category** (The previous one you just created), Create a **placeholder** and give it a **description**
 
 ![005.png](./img/005.png)
 
-These fields are important as they are the extra bits of information that will be included in our template we will make shortly. So think of it like what extra bits would I like to have?
+These fields are important as they are the extra bits of information that will be included in our template we will make shortly. So think of it like what extra information would I like to have in the template?
 
 Our current Field looks like this;
 
 ![006.png](./img/006.png)
 
-Once created, head back to the Administration Tab and then click the sub tab ‘Templates’
-
-![007.png](./img/007.png)
-
-Here we will form the Template with ‘Create Template’
-
-Some sections in here are custom to your own requrements, however, ours looks like this - 
+Some sections in here are custom to your own requrements for the template, however, ours looks like this - 
 
 In the Field's section you can edit the created Field with the pencil icon at the end of the row. 
-To input specific tick fields in the later template you can add them in here through the edit pencil button.
+Here we have a custom field with a grouped checkbox & within that checkbox we have options to tick different catergories within the template. Those look like this;
 
 ![015.png](./img/015.png)
 
-Create a Template Name,
+Once you have created your ideal fields head to the ‘Templates’ tab & click 'Create Template'
 
-Select the School Category that you made earlier & give it a description.
+![007.png](./img/007.png)
 
-Select the template security level and the Staff Visability Level (Note you will want this low so staff can see the correct information)
 
-Hide the information from students and parents.
 
-Set the defaut rating colour you desire.
+## Creating the Template
+
+Create a **Template Name** in the text box at the top
+
+Select the **School Category** that you made earlier & give it a **Description**
+
+In the **Template Security** section select the **Staff Visability Level** (Note you will want this low so staff can see the information)
+
+Chose the **Parent/Student Visability** level preferred.
+
+Set the **Default Rating** colour you desire.
 
 ![008.png](./img/008.png)
 
-Once that has been set up you will need to check the permissions are correct for the Health Centre staff to see & enter the chronicle templates on studnet profiles.
 
-A normal Chronicle use for a Health Centre staff memeber would be to head to their Chronicle.
+
+
+### Note: Health Centre Permissions
+Once that has been set up you will need to check the permissions are correct for the Health Centre staff to see & enter the chronicle templates on student profiles.
+
+## Normal Chronicle Use
+
+The Normal Chronicle operation  for a Health Centre staff member would be to head to their Chronicle section.
 
 In the Chronicle Dashboard, Create a new student Entry OR ‘Add a new Sickbay Entry’ by searching for the students ID
 
 ![009.png](./img/009.png)
 
-Then, selecting the template we have just made in the new Chronicle Entry.
+Then, selecting the template we have just made in the 'Templates' drop down
 
 ![010.png](./img/010.png)
 
-Selecting the Health Centre entry and the template will populate - Looking something like;
+Selecting the Health Centre template we have created and you  will see the sections populate - Looking something like;
 
 ![011.png](./img/011.png)
 
-All of the preset requirements from the previous steps are populated
 
-If doing a first time action plan you can see on the right hand side the ‘Attachments’ section which the Health Centre staff will want to attach the relevant documentation from Parents/GP etc
+If doing a first time action plan on a student you can see on the right hand side the ‘Attachments’ section which the Health Centre staff will want to attach the relevant documentation from Parents/GP etc
 
 ![012.png](./img/012.png)
 
-Lastly, once that has been created you can head back to the students profile page and see the newly created action plan on the right hand side of the feed.
+Lastly, once that has been created you can head back to the students profile page and see the newly created action plan on the right hand side of the profile feed.
 
-Click the drop down and pin the new chronicle post to keep it at the top of the profile.
+Click the drop down on the newly created chronicle entry and pin the chronicle post to keep it at the top of the profile.
 
 ![013.png](./img/013.png)
 
