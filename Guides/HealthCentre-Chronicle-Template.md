@@ -1,14 +1,20 @@
 # Compass Chronicle Templates
 
-This is a rough guide on how McKinnon Secondary College creates their Compass Chronicle Templates and specifically goes through the process for a template to be used in Health Centre/Sick Bay Action Plans.
+This is a guide on how to create Compass Chronicle Templates and specifically goes through the process for a template to be used in Health Centre/Sick Bay Action Plans.
 
-## Permissions
+### Permissions
 
-To be able to create this template for your Health Centre you will need the highest Compass permissions. Typically something like CompassSponsor level to be able to create the templates for ‘Level 2’ type staff ie Health Centre/Sick Bay.
+Technicians to be able to create this template for your Health Centre you will need the Compass permission 'ChronicleConfigure'
 
+#
+
+Note: Once the template has been set up you will need to check the permissions are correct for the Health Centre staff to see & enter the chronicle templates on student profiles. Typically this permission is under 'SickBayAdmin'
+
+
+## Start
 Head to your Student Management then find ‘Chronicle’
 
-![001.png](./img/001.png)
+![001.png](./img/001.png)  
 
 
 
@@ -25,7 +31,6 @@ Click ‘Create Category’
 Give the category a name ie Medical and then set the Visability settings
 
 ![002.png](./img/002.png)
-
 
 
 
@@ -87,8 +92,6 @@ Set the **Default Rating** colour you desire.
 
 
 
-### Note: Health Centre Permissions
-Once that has been set up you will need to check the permissions are correct for the Health Centre staff to see & enter the chronicle templates on student profiles.
 
 ## Normal Chronicle Use
 
